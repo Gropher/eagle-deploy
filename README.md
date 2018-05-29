@@ -34,7 +34,7 @@ production
 #### Concurrency
 | Service      | No of Processes |
 | ------------ |:---------------:|
-| worker       | 1               |
+| worker       | 4               |
 
 #### Servers
 * b20
